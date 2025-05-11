@@ -1,6 +1,7 @@
 print("Hello, World!")
 print("Muhammad Zeeshan Zaheer")
 print("This is a practice file.")
+print("Muhammad Zeeshan Zaheer", "this is a practice file.");
 name="Muhammad Zeeshan Zaheer";
 print(name);
 age=87;
