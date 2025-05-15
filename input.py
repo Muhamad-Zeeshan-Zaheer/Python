@@ -1,4 +1,5 @@
-a=input("Enter the number")
+a=input("Enter the asked input\n")
 print(a)
-b=input("Enter the string")
-print(b);
+b=int(input("Enter the number\n"))
+print(type(a))
+print(type(b))
