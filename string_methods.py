@@ -1,0 +1,11 @@
+str="hellow python"
+print(str)
+print(str.endswith("pyt"))
+print(str.capitalize())
+str=str.replace("h","T")
+print(str)
+print(str.count("o"))
+print(str.find("o"))
+print(str.index("o"))
+print(str.isalnum())
+print(str.isalpha())
