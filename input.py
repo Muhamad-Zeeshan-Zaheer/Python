@@ -1,5 +1,0 @@
-a=input("Enter the asked input\n")
-print(a)
-b=int(input("Enter the number\n"))
-print(type(a))
-print(type(b))
